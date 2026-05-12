@@ -1,4 +1,4 @@
-## API-Mobile-MySQL
+## WebAPI-Mobile-MySQL
 Exemplo de criação CRUD WebAPI com banco de dados MySQL utilizando Dapper.
 
 ### O que você vai encontrar neste projeto
