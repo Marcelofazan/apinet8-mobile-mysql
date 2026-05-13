@@ -17,7 +17,7 @@ Modifique a string de conexão no arquivo appsettings.json, no trecho indicado:
  
 O script para criação da tabela do exemplo encontra-se na pasta Database.
 
-Obs: Vinculado ao exemplo 
-Executa a aplicação Frontend **AppMobile-MAUI-Login-Pessoa** que se encontra no Github.
 
+### Frontend Mobile  
+Projeto vinculado a **AppMobile-MAUI-Login-Pessoa** que se encontra no Github.
   - [AppMobile-MAUI-Login-Pessoa](https://github.com/Marcelofazan/appmob-maui-login-pessoa)
